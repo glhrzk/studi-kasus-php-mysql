@@ -1,3 +1,3 @@
-# studi-kasus-php-oop
+# studi-kasus-php-mysql
 
 dengan catatan tersendiri
